@@ -70,4 +70,4 @@ To run this notebook, open it in Google Colab and execute the cells one by one.
 ## Resources
 - [Gemini API Documentation](https://ai.google.dev/docs)
 - [Getting Started Guide](https://ai.google.dev/tutorials/ai-studio_quickstart)
-- [Google Colab Link](https://colab.research.google.com/drive/1BEdDMLb8XUyF6aOb_oG_DsQ35MXbMcCF#scrollTo=u-JHtXnfCIHi) Additional resources or references used in the notebook
+- [Google Colab Link](https://colab.research.google.com/drive/1BEdDMLb8XUyF6aOb_oG_DsQ35MXbMcCF#scrollTo=u-JHtXnfCIHi) 
